@@ -1,6 +1,0 @@
-E:/B-Spline/out/build/x64-Debug (default)/CMakeFiles/bspline.dir
-E:/B-Spline/out/build/x64-Debug (default)/CMakeFiles/install/local.dir
-E:/B-Spline/out/build/x64-Debug (default)/CMakeFiles/install.dir
-E:/B-Spline/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
-E:/B-Spline/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
-E:/B-Spline/out/build/x64-Debug (default)/CMakeFiles/list_install_components.dir
